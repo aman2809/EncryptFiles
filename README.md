@@ -12,8 +12,12 @@ For securing your files in your computer just download it.
 
 4. for decrypting files remove ' .hrk ' file from code.
 
+5. do not share your key.
 
 
-''' i will update GUI after some time '''
+
+# Updates
+1. i will update GUI after some time.
+2. password will added soon.
 
 
